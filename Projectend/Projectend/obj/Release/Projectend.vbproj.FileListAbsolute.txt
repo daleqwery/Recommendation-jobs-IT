@@ -1,0 +1,4 @@
+C:\Users\delso\Desktop\Projectend\Projectend\Projectend\obj\Release\Projectend.vbprojAssemblyReference.cache
+C:\Users\delso\Desktop\Projectend\Projectend\Projectend\obj\Release\Projectend.Resources.resources
+C:\Users\delso\Desktop\Projectend\Projectend\Projectend\obj\Release\Projectend.vbproj.GenerateResource.cache
+C:\Users\delso\Desktop\Projectend\Projectend\Projectend\obj\Release\Projectend.vbproj.CoreCompileInputs.cache
